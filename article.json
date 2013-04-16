@@ -1,10 +1,8 @@
 {
   SovetId: 1,
   
-  Head: "Едим палочками",
-  State: "Для новичков достаточно большую проблему составляют традиционные японские палочки для еды – хаси (хаши).
-
-  Если у палочки один конец острый, а другой тонкий, держите так, чтобы утолщение было вверху.",
+  Head: "Use a stick"
+  State: "It looks very good when people use a stick to have Japanese food." 
   
   Author: "Afiya"
    

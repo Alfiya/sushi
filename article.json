@@ -1,6 +1,6 @@
 {
-  SovetId: 1
-  Head: "Use a stick"
-  State: "It looks very good when people use a stick to have Japanese food." 
+  SovetId: 1,
+  Head: "Use a stick",
+  State: "It looks very good when people use a stick to have Japanese food." ,
   Author: "Afiya"
 }

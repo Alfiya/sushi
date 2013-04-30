@@ -10,6 +10,12 @@
   head: "Rice",
   article: "Sushi is made from a special type of rice.",
   author: "Dina"
+},
+{
+  
+  head: "Sauce and spices",
+  article: "Eating sushi with chopsticks and is also attached special sauce and spices.",
+  author: "Dina"
 }
 
 ]
